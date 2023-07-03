@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactSuperChat/static/css/main.ec6dcf85.css",
+    "main.js": "/reactSuperChat/static/js/main.8547a56f.js",
+    "static/js/787.fd333685.chunk.js": "/reactSuperChat/static/js/787.fd333685.chunk.js",
+    "index.html": "/reactSuperChat/index.html",
+    "main.ec6dcf85.css.map": "/reactSuperChat/static/css/main.ec6dcf85.css.map",
+    "main.8547a56f.js.map": "/reactSuperChat/static/js/main.8547a56f.js.map",
+    "787.fd333685.chunk.js.map": "/reactSuperChat/static/js/787.fd333685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.8547a56f.js"
+  ]
+}
